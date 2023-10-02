@@ -70,7 +70,7 @@ If you know more tools, please add it in issues or add a pull requests
  #### Clash example configuration for Iran
  - [Full tutorial](https://lancellc.gitbook.io/clash)
 
- - [Full Clash Configuration](https://github.com/Dreamacro/clash/wiki/Configuration)
+ - [Full Clash Configuration](https://github.com/Dreamacro/clash/wiki)(https://dreamacro.github.io/clash/)/Configuration)
 
 ### Serverless 
 This approach works by changing packets to scape filtering! 
