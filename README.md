@@ -67,7 +67,7 @@ If you know more tools, please add it in issues or add a pull requests
 
 <!--- [iOS: Stash not free](https://apps.apple.com/app/stash/id1596063349?platform=iphone) not free-->
  
- #### Clash example configuration for Iran
+ #### Clash example configuration for censored countries
  - [Full tutorial](https://lancellc.gitbook.io/clash)
 
  - [Full Clash Configuration](https://dreamacro.github.io/clash/configuration/configuration-reference.html)
