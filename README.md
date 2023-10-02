@@ -69,21 +69,17 @@ If you know more tools, please add it in issues or add a pull requests
  
  #### Clash example configuration for Iran
  - [Full tutorial](https://lancellc.gitbook.io/clash)
- - [only pass filtered sites to proxy](https://github.com/hiddify/config/blob/main/clash/lite.yml)  
- It is useful when you want to use always the proxy without having any issues to all other sites. `Fastest solution` `lowest overhead on server`
- - [only pass non-iranian sites to proxy](https://github.com/hiddify/config/blob/main/clash/normal.yml)
- It uses direct connection for irannian sites (50% off in price) and  the non-iranian sites will pass to the proxy so you can avoid external sanctions.
- - [pass all sites to proxy](https://github.com/hiddify/config/blob/main/clash/all.yml) 
+
  - [Full Clash Configuration](https://github.com/Dreamacro/clash/wiki/Configuration)
 
-### ServerLess!!! 
+### Serverless 
 This approach works by changing packets to scape filtering! 
 - requirment: a working DNS over HTTPS (DoH) is needed. [setup a DoH server]()
 - [Android](https://github.com/zhenyolka/DPITunnel-android)
 - [Windows: GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) [Windows: GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
 
 ### Shadowsocks Client
- **we suggest to use clash client instead of shadowsocks client**
+ **We suggest to use Clash Client instead of ShadowSocks Client**
 - [iOS: OneClick](https://apps.apple.com/us/app/id1545555197) Free, 
 [iOS: Potatso](https://apps.apple.com/app/potatso-lite/id1239860606), [iOS: Shadowlink](https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518),  [iOS: Surge 5](https://apps.apple.com/us/app/id1442620678), [iOS: Spectre](https://apps.apple.com/us/app/spectre-vpn/id1508712998) [iOS: oneclick](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) Free.
 - [iOS: Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) is not free. [How to bypass payment](https://github.com/WeAreMahsaAmini/FreeInternet/blob/main/guides/shadowsocks-v2ray-tls/how-to-connect.md#%D8%A2%DB%8C%D9%81%D9%88%D9%86-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF)
