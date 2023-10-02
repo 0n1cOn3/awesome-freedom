@@ -1,5 +1,5 @@
 # Awesome Freedom
-In this repository we have collected all awesome tools for iranian people.
+In this repository we have collected all awesome tools for censored countries or severely restricted access to the WWW
 
 If you know more tools, please add it in issues or add a pull requests
 
