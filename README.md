@@ -59,7 +59,10 @@ If you know more tools, please add it in issues or add a pull requests
 `recommended`
  A Rule Based proxy (based on GEOIP, IP-CIDR, Domain, fallback, load balance) that support many protocols such as Shadowsocks(R), VMess, Trojan, Snell, SOCKS5, HTTP(S) that can be retrive by a link
  #### Clash Download
-- [Android: Google Play](https://play.google.com/store/apps/details?id=com.github.kr328.clash) [Android: APK](https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.11/cfa-2.5.11-premium-universal-release.apk) [Android: Repository](https://github.com/Kr328/ClashForAndroid)
+- Android variants:
+    * [Android: Google Play](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
+    * [Android: APK](https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.11/cfa-2.5.11-premium-universal-release.apk)
+    * [Android: Repository](https://github.com/Kr328/ClashForAndroid)
 - [Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.4/Clash.for.Windows.Setup.0.20.4.exe)
 - [macOS](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.4/Clash.for.Windows-0.20.4.dmg) 
 - [Linux](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.5/Clash.for.Windows-0.20.5-x64-linux.tar.gz)
